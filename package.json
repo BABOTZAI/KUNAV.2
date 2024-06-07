@@ -1,7 +1,7 @@
 {
-    "name": "taylor",
-    "version": "0.0.1",
-    "description": "Free WhatsApp Bot Multi Device With ESM Module",
+    "name": "KUNA V.2",
+    "version": "0.0.2",
+    "description": "Free WhatsApp Bot Multi Device",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -27,13 +27,13 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/AyGemuy",
+    "homepage": "https://github.com/BABOTZAI",
     "author": {
-        "name": "AyGemuy"
+        "name": "BABOTZAI"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AyGemuy/Taylor-V2.git"
+        "url": "git+https://github.com/BABOTZAI/KUNAV.2.git"
     },
     "bugs": {
         "url": "https://github.com/AyGemuy/Taylor-V2/issues"
