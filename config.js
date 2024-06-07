@@ -41,10 +41,10 @@ async function loadConfig() {
     });
     /** Oᴡɴᴇʀ number  **/
     global.owner = [
-      ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", true]
+      ["6285704026706", "️𝖪𝖴𝖭𝖠 - 𝑶𝒘𝒏𝒆𝒓", true]
     ];
-    global.mods = ["6282195322106"];
-    global.prems = ["6282195322106"];
+    global.mods = ["6285704026706"];
+    global.prems = ["6285704026706"];
     /** Website  **/
     global.APIs = {
       amel: "https://melcanz.com",
@@ -84,29 +84,29 @@ async function loadConfig() {
     /** XyroineeApi  **/
     global.xyro = "yqiBQF86F4";
     /** Number  **/
-    global.nomorbot = "6281779570422";
-    global.nomorown = "6282195322106";
-    global.namebot = " ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ ";
-    global.nameown = "「 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 」";
+    global.nomorbot = "6289506606501";
+    global.nomorown = "6285704026706";
+    global.namebot = " 𝖪𝖴𝖭𝖠-ʙᴏᴛ あ⁩ ";
+    global.nameown = "「 Aril Narindra 」";
     /** Random  **/
     global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥",
       "✗", "⚜", "⚚", "♪"
     ]);
     global.htjava = pickRandom(["乂", "⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"]);
     /** Watermark  **/
-    global.wm = "                「 ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ 」";
+    global.wm = "                「 𝖪𝖴𝖭𝖠-ʙᴏᴛ あ⁩ 」";
     global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷";
-    global.wm3 = htjava + " ᴛᴀyʟᴏʀ-ʙᴏᴛ";
+    global.wm3 = htjava + " 𝖪𝖴𝖭𝖠-ʙᴏᴛ";
     /** Thumbnail  **/
     global.giflogo = (VideoGalau());
     global.fla = pickRandom((ImgLogoFlam()));
     global.flaaa = (ImgLogoFlam());
     global.brandc = (ImgLogoDynamic());
     /** Link  **/
-    global.sig = "https://www.instagram.com/wudysoft";
-    global.sgh = "https://www.github.com/AyGemuy";
-    global.sgc = "https://s.id/Taylor-V2";
-    global.sdc = "https://www.discord.com/wudysoft";
+    global.sig = "https://www.instagram.com/aril.narindra";
+    global.sgh = "https://www.github.com/BABOTZAI";
+    global.sgc = "https://s.id/KUNA-V2";
+    global.sdc = "https://www.discord.com/KUNAI";
     global.snh = "https://www.tiktok.com/@upload_file";
     global.sfb = "https://www.facebook.com/";
     global.syt = "https://www.youtube.com/";
@@ -182,7 +182,7 @@ async function loadConfig() {
     ]);
     global.packname = "𝑴𝒂𝒅𝒆 𝒃𝒚";
     global.stickpack = packname;
-    global.author = "𝑻𝒂𝒚𝒍𝒐𝒓 乂 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕";
+    global.author = "𝖪𝖴𝖭𝖠 乂 Ａｒｉｌ Ｎａｒｉｎｄｒａ";
     global.stickauth = author + "\nwa.me/" + nomorbot;
     global.multiplier = 69;
     /** Pesan  **/
@@ -192,18 +192,18 @@ async function loadConfig() {
     global.webs = "https://s.id/Cerdasin62";
     global.gcwangsaf = "https://chat.whatsapp.com/LqJoQr4IdBLAXsxd1PkNph";
     /** Donasi  **/
-    global.saweria = "https://saweria.com/wudysoft";
-    global.dana = "0887435373103";
-    global.pulsa = "082195322106";
-    global.trakteer = "https://trakteer.id/wudysoft";
-    global.paypal = "wudysoft@mail.com";
-    global.gopay = "082195322106";
-    global.pdana = "0887435373103";
-    global.povo = "082195322106";
-    global.pgopay = "082195322106";
-    global.ppulsa = "082195322106";
-    global.ppulsa2 = "082195322106";
-    global.psaweria = "https://saweria.com/Wudysoft";
+    global.saweria = "https://sociabuzz.com/arilnarindra";
+    global.dana = "085704026706";
+    global.pulsa = "085704026706";
+    global.trakteer = "https://trakteer.id/arilnarindra";
+    global.paypal = "arilnarindrapratama57@mail.com";
+    global.gopay = "085704026706";
+    global.pdana = "085704026706";
+    global.povo = "085704026706";
+    global.pgopay = "085704026706";
+    global.ppulsa = "085704026706";
+    global.ppulsa2 = "085704026706";
+    global.psaweria = "https://sociabuzz.com/arilnarindra";
     /** Emoji  **/
     global.rpg = {
       emoticon(string) {
@@ -393,7 +393,7 @@ function PageDoc() {
 }
 
 function businessOwnerJid() {
-  return pickRandom([pickRandom([global.nomorown, "0", "628561122343", "6288906250517", "6282195322106",
+  return pickRandom([pickRandom([global.nomorown, "0", "6285604026706", "6288906250517", "6282195322106",
     "6281119568305", "6281282722861", "6282112790446"
   ]) + "@s.whatsapp.net"]);
 }
